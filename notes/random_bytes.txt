@@ -1,0 +1,210 @@
+21:20:13.579 -> RW: 1, Ad: 0xc, next instr: 0x56
+21:20:13.579 -> ****In main loop!
+21:20:14.581 -> RW: 1, Ad: 0xd, next instr: 0xe4
+21:20:14.581 -> ****In main loop!
+21:20:15.568 -> RW: 1, Ad: 0xd, next instr: 0x91
+21:20:15.568 -> ****In main loop!
+21:20:16.566 -> RW: 0, Ad: 0xb, next instr: 0x6a
+21:20:16.614 -> ****6502 writing...
+21:20:16.614 -> 11001110W: 0x73
+21:20:16.614 -> ****In main loop!
+21:20:17.614 -> RW: 1, Ad: 0xe, next instr: 0xa5
+21:20:17.614 -> ****In main loop!
+21:20:18.586 -> RW: 1, Ad: 0xf, next instr: 0xda
+21:20:18.586 -> ****In main loop!
+21:20:19.619 -> RW: 1, Ad: 0xa, next instr: 0x97
+21:20:19.619 -> ****In main loop!
+21:20:20.591 -> RW: 1, Ad: 0x0, next instr: 0xee
+21:20:20.591 -> ****In main loop!
+21:20:21.583 -> RW: 1, Ad: 0x1, next instr: 0x81
+21:20:21.583 -> ****In main loop!
+21:20:22.600 -> RW: 1, Ad: 0x2, next instr: 0x2f
+21:20:22.600 -> ****In main loop!
+21:20:23.587 -> RW: 1, Ad: 0x1, next instr: 0x67
+21:20:23.633 -> ****In main loop!
+21:20:24.589 -> RW: 1, Ad: 0x1, next instr: 0x83
+21:20:24.589 -> ****In main loop!
+21:20:25.592 -> RW: 0, Ad: 0x1, next instr: 0xec
+21:20:25.592 -> ****6502 writing...
+21:20:25.639 -> 00010110W: 0x68
+21:20:25.639 -> ****In main loop!
+21:20:26.615 -> RW: 1, Ad: 0x3, next instr: 0x4b
+21:20:26.615 -> ****In main loop!
+21:20:27.618 -> RW: 1, Ad: 0x4, next instr: 0xad
+21:20:27.618 -> ****In main loop!
+21:20:28.621 -> RW: 1, Ad: 0x5, next instr: 0x1e
+21:20:28.621 -> ****In main loop!
+21:20:29.623 -> RW: 1, Ad: 0x6, next instr: 0xb8
+21:20:29.623 -> ****In main loop!
+21:20:30.623 -> RW: 1, Ad: 0xe, next instr: 0xbc
+21:20:30.623 -> ****In main loop!
+21:20:31.611 -> RW: 1, Ad: 0x7, next instr: 0x4e
+21:20:31.611 -> ****In main loop!
+21:20:32.611 -> RW: 1, Ad: 0x8, next instr: 0x1a
+21:20:32.611 -> ****In main loop!
+21:20:33.629 -> RW: 1, Ad: 0x9, next instr: 0x9a
+21:20:33.629 -> ****In main loop!
+21:20:34.637 -> RW: 0, Ad: 0xa, next instr: 0xae
+21:20:34.637 -> ****6502 writing...
+21:20:34.637 -> 11001110W: 0x73
+21:20:34.637 -> ****In main loop!
+21:20:35.639 -> RW: 1, Ad: 0xa, next instr: 0xd0
+21:20:35.639 -> ****In main loop!
+21:20:36.621 -> RW: 1, Ad: 0xb, next instr: 0x5
+21:20:36.621 -> ****In main loop!
+21:20:37.643 -> RW: 1, Ad: 0xc, next instr: 0x87
+21:20:37.643 -> ****In main loop!
+21:20:38.644 -> RW: 1, Ad: 0x1, next instr: 0xe3
+21:20:38.644 -> ****In main loop!
+21:20:39.625 -> RW: 1, Ad: 0x2, next instr: 0xba
+21:20:39.625 -> ****In main loop!
+21:20:40.648 -> RW: 1, Ad: 0x3, next instr: 0xcd
+21:20:40.648 -> ****In main loop!
+21:20:41.650 -> RW: 1, Ad: 0x6, next instr: 0xe0
+21:20:41.650 -> ****In main loop!
+21:20:42.667 -> RW: 1, Ad: 0x7, next instr: 0x3e
+21:20:42.667 -> ****In main loop!
+21:20:43.658 -> RW: 1, Ad: 0x3, next instr: 0x16
+21:20:43.658 -> ****In main loop!
+21:20:44.666 -> RW: 1, Ad: 0x4, next instr: 0x87
+21:20:44.666 -> ****In main loop!
+21:20:45.667 -> RW: 1, Ad: 0x4, next instr: 0xd5
+21:20:45.667 -> ****In main loop!
+21:20:46.669 -> RW: 1, Ad: 0xa, next instr: 0x56
+21:20:46.669 -> ****In main loop!
+21:20:47.671 -> RW: 1, Ad: 0xa, next instr: 0x65
+21:20:47.671 -> ****In main loop!
+21:20:48.637 -> RW: 0, Ad: 0xa, next instr: 0x3c
+21:20:48.637 -> ****6502 writing...
+21:20:48.674 -> 00110100W: 0x2c
+21:20:48.674 -> ****In main loop!
+21:20:49.685 -> RW: 1, Ad: 0x5, next instr: 0xc8
+21:20:49.685 -> ****In main loop!
+21:20:50.674 -> RW: 1, Ad: 0x6, next instr: 0x1d
+21:20:50.674 -> ****In main loop!
+21:20:51.678 -> RW: 1, Ad: 0x6, next instr: 0xd2
+21:20:51.678 -> ****In main loop!
+21:20:52.680 -> RW: 1, Ad: 0x7, next instr: 0xd0
+21:20:52.680 -> ****In main loop!
+21:20:53.681 -> RW: 1, Ad: 0x0, next instr: 0xe4
+21:20:53.681 -> ****In main loop!
+21:20:54.683 -> RW: 1, Ad: 0x1, next instr: 0x92
+21:20:54.683 -> ****In main loop!
+21:20:55.688 -> RW: 1, Ad: 0x4, next instr: 0x7
+21:20:55.688 -> ****In main loop!
+21:20:56.679 -> RW: 1, Ad: 0x8, next instr: 0x21
+21:20:56.679 -> ****In main loop!
+21:20:57.679 -> RW: 1, Ad: 0x9, next instr: 0xc2
+21:20:57.679 -> ****In main loop!
+21:20:58.668 -> RW: 1, Ad: 0x9, next instr: 0xf7
+21:20:58.668 -> ****In main loop!
+21:20:59.705 -> RW: 1, Ad: 0x5, next instr: 0x55
+21:20:59.705 -> ****In main loop!
+21:21:00.673 -> RW: 1, Ad: 0x6, next instr: 0x7d
+21:21:00.673 -> ****In main loop!
+21:21:01.691 -> RW: 1, Ad: 0x5, next instr: 0x1a
+21:21:01.691 -> ****In main loop!
+21:21:02.685 -> RW: 1, Ad: 0xa, next instr: 0xea
+21:21:02.685 -> ****In main loop!
+21:21:03.686 -> RW: 1, Ad: 0xb, next instr: 0x2
+21:21:03.686 -> ****In main loop!
+21:21:04.684 -> RW: 1, Ad: 0xb, next instr: 0x40
+21:21:04.684 -> ****In main loop!
+21:21:05.709 -> RW: 1, Ad: 0xc, next instr: 0x6b
+21:21:05.709 -> ****In main loop!
+21:21:06.686 -> RW: 1, Ad: 0xd, next instr: 0xa
+21:21:06.686 -> ****In main loop!
+21:21:07.687 -> RW: 1, Ad: 0x8, next instr: 0xdf
+21:21:07.687 -> ****In main loop!
+21:21:08.699 -> RW: 1, Ad: 0x9, next instr: 0xa0
+21:21:08.699 -> ****In main loop!
+21:21:09.705 -> RW: 1, Ad: 0x0, next instr: 0x64
+21:21:09.705 -> ****In main loop!
+21:21:10.681 -> RW: 1, Ad: 0x0, next instr: 0xb3
+21:21:10.729 -> ****In main loop!
+21:21:11.699 -> RW: 1, Ad: 0xa, next instr: 0x3d
+21:21:11.699 -> ****In main loop!
+21:21:12.693 -> RW: 1, Ad: 0xb, next instr: 0xca
+21:21:12.693 -> ****In main loop!
+21:21:13.682 -> RW: 1, Ad: 0x8, next instr: 0x75
+21:21:13.719 -> ****In main loop!
+21:21:14.693 -> RW: 1, Ad: 0x9, next instr: 0x34
+21:21:14.693 -> ****In main loop!
+21:21:15.704 -> RW: 1, Ad: 0x9, next instr: 0xd4
+21:21:15.704 -> ****In main loop!
+21:21:16.705 -> RW: 1, Ad: 0x7, next instr: 0xbe
+21:21:16.705 -> ****In main loop!
+21:21:17.713 -> RW: 1, Ad: 0xa, next instr: 0xf8
+21:21:17.713 -> ****In main loop!
+21:21:18.713 -> RW: 1, Ad: 0xb, next instr: 0x73
+21:21:18.713 -> ****In main loop!
+21:21:19.730 -> RW: 1, Ad: 0xb, next instr: 0x78
+21:21:19.730 -> ****In main loop!
+21:21:20.733 -> RW: 1, Ad: 0xc, next instr: 0xa0
+21:21:20.733 -> ****In main loop!
+21:21:21.735 -> RW: 1, Ad: 0xc, next instr: 0x82
+21:21:21.735 -> ****In main loop!
+21:21:22.737 -> RW: 1, Ad: 0xd, next instr: 0xa2
+21:21:22.737 -> ****In main loop!
+21:21:23.742 -> RW: 1, Ad: 0xe, next instr: 0xf0
+21:21:23.742 -> ****In main loop!
+21:21:24.748 -> RW: 1, Ad: 0xf, next instr: 0xa5
+21:21:24.748 -> ****In main loop!
+21:21:25.729 -> RW: 1, Ad: 0x0, next instr: 0xc1
+21:21:25.729 -> ****In main loop!
+21:21:26.741 -> RW: 1, Ad: 0x1, next instr: 0x21
+21:21:26.741 -> ****In main loop!
+21:21:27.742 -> RW: 1, Ad: 0x1, next instr: 0xca
+21:21:27.742 -> ****In main loop!
+21:21:28.743 -> RW: 1, Ad: 0x4, next instr: 0xb6
+21:21:28.743 -> ****In main loop!
+21:21:29.754 -> RW: 1, Ad: 0x5, next instr: 0xd0
+21:21:29.754 -> ****In main loop!
+21:21:30.756 -> RW: 1, Ad: 0x6, next instr: 0x6f
+21:21:30.756 -> ****In main loop!
+21:21:31.764 -> RW: 1, Ad: 0x2, next instr: 0x91
+21:21:31.764 -> ****In main loop!
+21:21:32.724 -> RW: 1, Ad: 0x3, next instr: 0xd5
+21:21:32.724 -> ****In main loop!
+21:21:33.760 -> RW: 1, Ad: 0x5, next instr: 0xc3
+21:21:33.760 -> ****In main loop!
+21:21:34.733 -> RW: 1, Ad: 0x6, next instr: 0xf1
+21:21:34.733 -> ****In main loop!
+21:21:35.731 -> RW: 1, Ad: 0x6, next instr: 0xd4
+21:21:35.731 -> ****In main loop!
+21:21:36.731 -> RW: 1, Ad: 0x2, next instr: 0x59
+21:21:36.778 -> ****In main loop!
+21:21:37.752 -> RW: 1, Ad: 0x4, next instr: 0x2c
+21:21:37.752 -> ****In main loop!
+21:21:38.740 -> RW: 1, Ad: 0x5, next instr: 0xaa
+21:21:38.740 -> ****In main loop!
+21:21:39.746 -> RW: 1, Ad: 0x6, next instr: 0x4d
+21:21:39.746 -> ****In main loop!
+21:21:40.746 -> RW: 1, Ad: 0xa, next instr: 0x8c
+21:21:40.746 -> ****In main loop!
+21:21:41.747 -> RW: 1, Ad: 0x7, next instr: 0xf4
+21:21:41.747 -> ****In main loop!
+21:21:42.768 -> RW: 1, Ad: 0x8, next instr: 0x65
+21:21:42.768 -> ****In main loop!
+21:21:43.772 -> RW: 1, Ad: 0x8, next instr: 0xff
+21:21:43.772 -> ****In main loop!
+21:21:44.759 -> RW: 1, Ad: 0x8, next instr: 0x95
+21:21:44.759 -> ****In main loop!
+21:21:45.773 -> RW: 1, Ad: 0x9, next instr: 0x52
+21:21:45.773 -> ****In main loop!
+21:21:46.764 -> RW: 1, Ad: 0xa, next instr: 0x66
+21:21:46.764 -> ****In main loop!
+21:21:47.751 -> RW: 1, Ad: 0x6, next instr: 0xd0
+21:21:47.751 -> ****In main loop!
+21:21:48.753 -> RW: 1, Ad: 0x7, next instr: 0x9c
+21:21:48.753 -> ****In main loop!
+21:21:49.755 -> RW: 0, Ad: 0x0, next instr: 0xd8
+21:21:49.789 -> ****6502 writing...
+21:21:49.789 -> 11100111W: 0xe7
+21:21:49.789 -> ****In main loop!
+21:21:50.774 -> RW: 1, Ad: 0xb, next instr: 0x3c
+21:21:50.774 -> ****In main loop!
+21:21:51.775 -> RW: 1, Ad: 0xc, next instr: 0x2c
+21:21:51.775 -> ****In main loop!
+21:21:52.807 -> RW: 1, Ad: 0xd, next instr: 0x35
+21:21:52.807 -> ****In main loop!
